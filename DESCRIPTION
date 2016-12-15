@@ -4,6 +4,8 @@ Title: This is title of MyRpackage
 Author: David Dippold
 Maintainer: David Dippold <dadippold@gmail.com>
 Description: A brief description about MyRpackage
-Depends: R (>= 3.1.0)
+Depends:
+    R (>= 3.1.0)
 License: GPL (>= 2)
-Imports: 
+Imports:
+RoxygenNote: 5.0.1
